@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+.image1 {
+    height: 100vh;
+    background-image: url("https://media.tenor.com/bkl4kbX9g8EAAAAe/speedddd.png");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image2 {
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/236x/e4/3e/59/e43e595c195096e46a3a34538461bb50.jpg?nii=t");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallax {
+    background-attachment: fixed;
+}
+
+.message {
+    color: white;
+    padding: 15px 25px;
+    font-size: 20px;
+}
+
+.black-block {
+    height: 400px;
+    background-color: black;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 25px;
+}
