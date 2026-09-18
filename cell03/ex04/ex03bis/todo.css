@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#newBtn {
+    padding: 10px 25px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#ft_list {
+    width: 400px;
+    margin: 30px auto;
+}
+
+.todo {
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+}
